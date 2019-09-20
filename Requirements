@@ -1,5 +1,4 @@
-1. Python > 3.5v
-2. PyAudio suitable for Python 3.6
-3. Wikipedia
-4. Pyttsx3
-5. Web browser
+1. Python 3.6
+2. speech_recognition 
+3. webbrowser
+4. wikipedia
